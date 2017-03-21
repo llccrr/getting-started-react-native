@@ -1,0 +1,3 @@
+rootProject.name = 'DsReactNative'
+
+include ':app'
